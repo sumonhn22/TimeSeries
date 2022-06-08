@@ -1,3 +1,3 @@
 # TimeSeries
 
-## Some notebook are createed for the solution of timeseries data 
+## Some notebooks are createed to understand the timeseries problem 
