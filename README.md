@@ -1,3 +1,5 @@
-# TimeSeries
+# Some projects on TimeSeries (TF examination)
 
-## Some notebooks are createed to understand the timeseries problem 
+CNN
+RNN
+LSTM
